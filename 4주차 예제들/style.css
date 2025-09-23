@@ -1,0 +1,21 @@
+
+h1{font-size: 3em; color: #f00;
+        background-color: black;
+        text-align: center;}
+
+p{font-family: 'Lucida Sans', 'Lucida Sans Regular', 
+        'Lucida Grande', 'Lucida Sans Unicode',
+         Geneva, Verdana, sans-serif;}
+
+.accent{font-size: 1.5em;
+            font-weight:900;}
+
+.italic{ font-weight: bold;
+        font-style: italic;}
+
+.container{width: 500px;
+           border: 1px solid #222;
+           margin: 0 auto;}
+
+p{ text-align: justify;
+    line-height: 1.5em;}

@@ -1,0 +1,33 @@
+#container {  /* 전체 콘텐츠를 감싸는 div */
+              width: 650px;
+                margin: 0 auto;
+                border :1px solid #222;
+                padding: 5px;
+            }
+
+		#check {   /* 텍스트 부분을 감싸는 div */
+            width: 640px;
+			}
+
+		h1 {
+			
+             background-color: #222;
+             color: aliceblue;
+             font-size: 1em;
+             margin: 0;
+             padding: 10px;
+             
+		}		
+
+        h2{
+            color: #f00; font-size: 1.5em;text-align: center;
+        }
+        p{font-size: 1.2em;line-height: 2em;font-weight: bold;
+            text-align: center;}
+        
+        .accent{
+            color: #00f;
+            }
+        .samlltext{
+            font-size: 0.7em;
+        }
