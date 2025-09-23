@@ -1,0 +1,31 @@
+caption{
+   text-align: right;
+   }
+
+
+table{
+    
+    /* 표를 끝까지 나오게 하기 */
+    width: 100%;
+    /* 출처 아래로 내리기 */
+    caption-side:bottom;
+    /* 표 줄 1px 만큼 감싸기 */
+    border: 1px solid #222;
+    /* 표와 셀 합치기 */
+    border-collapse: collapse;
+}
+
+    /* 셀 왼쪽으로 가게하기 */
+th {text-align:right}
+
+        /* 바탕색 #e5f6f6 로 설정하기 */
+.color{background-color: #e5f6f6;}
+
+td,th{
+
+    border:1px solid #222;
+
+    text-align: center;
+    /* 셀의 내부 여백 10px로 설정하기 */
+    padding: 10px;
+}
